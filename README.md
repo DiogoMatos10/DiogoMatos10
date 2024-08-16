@@ -13,6 +13,7 @@ Throughout my education, I've completed numerous projects that challenged me to 
 <h3 align="left">Stats</h3>
 
 ![DiogoMatos10 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMatos10&layout=compact&theme=omni&hide=kotline)
+![DiogoMatos10 Stats](https://github-readme-stats.vercel.app/api?username=DiogoMatos10&show_icons=true&theme=radical)
 
 <br>
 
