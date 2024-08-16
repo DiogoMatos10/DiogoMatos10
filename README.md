@@ -23,7 +23,7 @@ Throughout my education, I've completed numerous projects that challenged me to 
 <h3 align="left">Social</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/diogo-matos-72b387274/" target="_blank">
-        <img align="center" src="[https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-yexr80uq.png](https://github-readme-stats.vercel.app/api?username=DiogoMatos10&show_icons=true&theme=radical)" alt="LinkedIn Profile" height="40" width="40"/>
+        <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IMhpAL8BLAh3b_S3LYd4vN6OE2LF5jIBxQ&s" alt="LinkedIn Profile" height="40" width="40"/>
     </a>
     <a href="https://github.com/DiogoMatos10" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub Profile" height="40" width="40"/>
