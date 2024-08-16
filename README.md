@@ -1,5 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Diogo Matos</h1>
-<p>Hello! I'm a passionate Software Engineer with a strong foundation in various programming languages, frameworks, and technologies. My academic journey, professional experiences, and independent projects have continually honed my skills.
+<p>Hello! I'm a passionate Computer Science Engineer with a strong foundation in various programming languages, frameworks, and technologies. My academic journey, professional experiences, and independent projects have continually honed my skills.
 <br><br>
 
 Throughout my education, I've completed numerous projects that challenged me to innovate and grow. Outside of the classroom, I'm always eager to learn new technologies and tackle new challenges, constantly expanding my expertise and pushing my boundaries.</p>
