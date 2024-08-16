@@ -14,7 +14,7 @@ Throughout my education, I've completed numerous projects that challenged me to 
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMatos10&layout=compact&theme=omni&hide=kotline" style="height: 180px; width: auto;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoMatos10&layout=compact&langs_count=8&card_width=320&theme=radical" style="height: 180px; width: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoMatos10&layout=compact&langs_count=8&card_width=320" style="height: 180px; width: auto;"/>
 </p>
 
 
