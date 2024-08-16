@@ -27,6 +27,8 @@ Throughout my education, I've completed numerous projects that challenged me to 
 
 </p>
 
+<br>
+
 <h3 align='left'>Languages and Tools</h3>
 <p align='left'>
     <a href='https://en.wikipedia.org/wiki/C_(programming_language)' target='_blank'>
