@@ -66,11 +66,10 @@ Throughout my education, I've completed numerous projects that challenged me to 
     <a href='https://www.swi-prolog.org/' target='_blank'>
         <img src='https://static-00.iconduck.com/assets.00/file-type-prolog-icon-256x256-9d64e3um.png' alt='Prolog' width='40' height='40'/>
     </a>
-     <a href='https://www.outsystems.com/' target='_blank'>
-        <img src='https://www.outsystems.com/Forge_BL/rest/ComponentThumbnail/GetURL_ComponentThumbnail?ProjectImageId=24252' alt='OutSystems' width='40' height='40' style='border-radius: 5px;'/>
-    </a>
     <a href='https://en.wikipedia.org/wiki/Assembly_language' target='_blank'>
-        <img src='https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png' alt='Assembly' width='40' height='40' style='border-radius: 5px;'/>
+        <img src='https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png' alt='Assembly' width='40' height='40' style='border-radius: 5;'/>
     </a>
-   
+    <a href='https://www.outsystems.com/' target='_blank'>
+        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJvcX6r-NTDEQqp3F3M0UwFqwNqRUVErOhw&s' alt='OutSystems' width='40' height='40' style='border-radius: 10;'/>
+    </a>
 </p>
