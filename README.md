@@ -1,5 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Diogo Matos</h1>
-<p>Hello! I'm a passionate Computer Science Engineer with a strong foundation in various programming languages, frameworks, and technologies. My academic journey, professional experiences, and independent projects have continually honed my skills.
+<p>Hello! I'm a passionate Software Engineer with a strong foundation in various programming languages, frameworks, and technologies. My academic journey, professional experiences, and independent projects have continually honed my skills.
 <br><br>
 
 Throughout my education, I've completed numerous projects that challenged me to innovate and grow. Outside of the classroom, I'm always eager to learn new technologies and tackle new challenges, constantly expanding my expertise and pushing my boundaries.</p>
@@ -7,6 +7,14 @@ Throughout my education, I've completed numerous projects that challenged me to 
 - 💻 I'm currently learning **React.js** and **Node.js**
 - 💾 All of my projects of the dregree are available at [DiogoMatos10](https://github.com/DiogoMatos10?tab=repositories)
 - ✉️ You can contact me diogo.matos.dev@outlook.com
+
+<br>
+
+<h3 align="left">Stats</h3>
+
+![DiogoMatos10 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMatos10&layout=compact&theme=omni&hide=kotline)
+
+<br>
 
 <h3 align="left">Social</h3>
 <p align="left">
@@ -67,9 +75,9 @@ Throughout my education, I've completed numerous projects that challenged me to 
         <img src='https://static-00.iconduck.com/assets.00/file-type-prolog-icon-256x256-9d64e3um.png' alt='Prolog' width='40' height='40'/>
     </a>
     <a href='https://en.wikipedia.org/wiki/Assembly_language' target='_blank'>
-        <img src='https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png' alt='Assembly' width='40' height='40' style='border-radius: 5;'/>
+        <img src='https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png' alt='Assembly' width='40' height='40' style='border-radius: 5px;'/>
     </a>
     <a href='https://www.outsystems.com/' target='_blank'>
-        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJvcX6r-NTDEQqp3F3M0UwFqwNqRUVErOhw&s' alt='OutSystems' width='40' height='40' style='border-radius: 10;'/>
+        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJvcX6r-NTDEQqp3F3M0UwFqwNqRUVErOhw&s' alt='OutSystems' width='40' height='40' style='border-radius: 5px;'/>
     </a>
 </p>
