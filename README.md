@@ -6,8 +6,6 @@
 <p>I am a proactive learner, constantly seeking new opportunities to enhance my skills and deliver impactful results in every project I pursue.</p>
 <br><br>
 
-Throughout my education, I've completed numerous projects that challenged me to innovate and grow. Outside of the classroom, I'm always eager to learn new technologies and tackle new challenges, constantly expanding my expertise and pushing my boundaries.</p>
-
 - 💻 I'm currently expanding my knowledge in frontend technologies
 - 💾 All of my projects of the dregree are available at [Uni](https://github.com/DiogoMatos10/Uni)
 - ✉️ You can contact me diogo.matos.dev@outlook.com
