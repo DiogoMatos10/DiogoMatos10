@@ -1,5 +1,9 @@
 <h1 align='center'> Hi 👋, I'm Diogo Matos</h1>
-<p>Hello! I'm a passionate Frontend Engineer with a strong foundation in various programming languages, frameworks, and technologies. I'm a Computer Science Engineering graduate currently working at one of the largest companies in Portugal, where I specialize in building modern web applications using React.js and Next.js.
+<p>Currently, I am working at NTT DATA Portugal as a Frontend Developer, specializing in the development of innovative web applications using cutting-edge technologies such as Next.js and React.js, with a particular focus on solutions in the Generative AI (genAI) domain. My work allows me to tackle technical challenges and contribute to dynamic projects at the forefront of digital transformation.</p>
+
+<p>My academic background in Computer Science Engineering from the University of Évora provided me with a solid foundation in technology and problem-solving. Throughout my studies and professional journey, I have been strongly committed to deepening my expertise in frontend development, driven by a passion for staying up to date with the latest trends, especially in TypeScript, React.js, Node.js, and modern web technologies. </p>
+
+<p>I am a proactive learner, constantly seeking new opportunities to enhance my skills and deliver impactful results in every project I pursue.</p>
 <br><br>
 
 Throughout my education, I've completed numerous projects that challenged me to innovate and grow. Outside of the classroom, I'm always eager to learn new technologies and tackle new challenges, constantly expanding my expertise and pushing my boundaries.</p>
