@@ -4,7 +4,6 @@
 <p>My academic background in Computer Science Engineering from the University of Évora provided me with a solid foundation in technology and problem-solving. Throughout my studies and professional journey, I have been strongly committed to deepening my expertise in frontend development, driven by a passion for staying up to date with the latest trends, especially in TypeScript, React.js, Node.js, and modern web technologies. </p>
 
 <p>I am a proactive learner, constantly seeking new opportunities to enhance my skills and deliver impactful results in every project I pursue.</p>
-<br><br>
 
 - 💻 I'm currently expanding my knowledge in frontend technologies
 - 💾 All of my projects of the dregree are available at [Uni](https://github.com/DiogoMatos10/Uni)
